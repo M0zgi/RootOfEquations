@@ -20,7 +20,7 @@ protected:
 class Quadratic : public Equation
 {
 public:
-	double c, d, x1, x2;
+	double c, d, x2;
 	Quadratic() {}
 	virtual void Solution() override;
 };
