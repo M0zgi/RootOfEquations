@@ -24,14 +24,14 @@ private:
 
 public:	
 	Quadratic() {}
-	virtual void Solution() override;
+	void Solution() override;
 };
 
 class Linear : public Equation
 {
 public:	
 	Linear() {}	
-	virtual void Solution() override;
+	void Solution() override;
 };
 
 void Quadratic::Solution()
