@@ -103,7 +103,7 @@ void Linear::Solution()
 		cout << "Ответ: x = ";
 		
 		if (b)
-			x1 = -b / a;
+			x1 = (-b) / a;
 		else
 			x1 = b / a;
 		
