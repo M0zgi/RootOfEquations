@@ -1,4 +1,4 @@
-#include"Equation.h"
+﻿#include"Equation.h"
 
 
 int main()
